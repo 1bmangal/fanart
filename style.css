@@ -1,0 +1,108 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.img{
+    height: 50px;
+    width: 50px;
+}
+.video_desenho{
+    background-color: black;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 1150px;
+    width: 100%;
+}
+.loop{
+    height: 650px;
+    width: 950px;
+}
+header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.cabecario{
+    background-color: blueviolet;
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    height: 200px;
+    width: 100%;
+}
+.cabeca{
+    color: red;
+    align-items: center;
+    justify-content: space-between;
+}
+div{
+    display: flex;
+}
+.salame{
+    color: white;
+    margin-bottom: 20px;
+    font-family: "Lato";
+}
+.batata{
+    width:  400px;
+    height: 200px;
+    border-radius: 70px;
+    font-size: 48px;
+}
+.sla_porra{
+    margin-left: 725px;
+    margin-right: 725px;
+    display: flex;
+    justify-content: center;
+}
+.porra{
+    margin-top: 50px;
+    margin-left: 25px;
+    align-items: center;
+    flex-direction: column;
+}
+.pika{
+    margin-top: 200px;
+    flex-direction: row;
+    font-size: 20px;
+}
+.desenho_foda{
+    height: 700px;
+    width: 700px;
+    margin-left: 50px;
+    margin-bottom: 50px;
+}
+.textao{
+    flex-direction: column;
+}
+.micro{
+    margin-bottom: 25px;
+}
+.mini{
+    margin-top: 25px;
+}
+.pinto{
+    margin-bottom: 25px ;
+}
+.modulo{
+    flex-direction: column;
+    background-color: black;
+}
+.felipe{
+    margin-top: 20px;
+    color: white;
+    font-size: 48px;
+    align-items: center;
+    justify-content: center;
+    margin-left: 540px;
+    margin-bottom: 20px;
+}
+.piroca{
+    margin-left: 220px;
+}
+.piroca3{
+    margin-left: 530px;
+}

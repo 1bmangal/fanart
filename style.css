@@ -25,19 +25,15 @@ header{
     flex-direction: row;
     align-items:center;
     justify-content: space-between;
+    margin-top:20;
 }
 .cabecario{
     background-color: blueviolet;
     margin-top: 0px;
-    margin-left: 0px;
-    margin-right: 0px;
+    margin-left: 0;
+    margin-right: 0;
     height: 200px;
     width: 100%;
-}
-.cabeca{
-    color: red;
-    align-items: center;
-    justify-content: space-between;
 }
 div{
     display: flex;

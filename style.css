@@ -23,6 +23,7 @@
 header{
     display: flex;
     flex-direction: row;
+    align-items:center;
     justify-content: space-between;
 }
 .cabecario{
@@ -47,8 +48,8 @@ div{
     font-family: "Lato";
 }
 .batata{
-    width:  400px;
-    height: 200px;
+    width:  300px;
+    height: 150px;
     border-radius: 70px;
     font-size: 48px;
 }
@@ -105,4 +106,12 @@ div{
 }
 .piroca3{
     margin-left: 530px;
+}
+.duvida{
+    color: aqua;
+    font-size: 50px;
+}
+.metodo{
+    display:flex;
+    flex-direction: row;
 }
